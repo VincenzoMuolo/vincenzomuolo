@@ -10,7 +10,7 @@
 <ul>I am also interested in learning TypeScript.</ul>
 <br>
 
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzomuolo&layout=compact&langs_count=10">
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzomuolo&layout=compact&langs_count=10&theme=tokyonight&hide=batchfile,shell,awk,hack">
 
 
 
