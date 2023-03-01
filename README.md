@@ -1,19 +1,34 @@
-<div width="50%" align="center"><h1>Hi there!👋<br>Salve!</h1></div>
-<p>In my GitHub repository, i have stored all of the projects i completed during my university courses. I participated in each of these projects as a team member and completed my work trying a variety of contexts.
-<ul>On the <b>frontend</b> side, i have learned <b>CSS</b> and <b>JavaScript</b>.</ul>
-<ul>On the <b>backend</b>, i have learned <b>SQL</b>, <b>jQuery</b> to make custom requests and <b>PHP</b>, also using the PDO extension for security purposes.</ul>
-<ul>I've also worked with <b>Android Studio</b>, where my assignments were to create the database, design the homepage app layout, and develop a mini-game of my own.</ul>
+# Hello there!👋
+I'm Vincenzo Muolo, a university student studying Informatics and Technologies for Software Production in Italy.
+In addition to my studies, i'm also a web developer with a passion for building user-friendly websites and applications.
 
-<p>I am currently improving my skills by completing challenges. I have started using <b>SCSS</b>, which is a <b>CSS</b> preprocessor, and approached the <b>BEM</b> (Block-Element-Modifier) methodology.</p>
-<br>
-<p>Things i want to do:</p>
-<ul>I want to learn a new framework like React or Flutter.</ul>
-<ul>I am also interested in learning TypeScript.</ul>
-<br>
+## 🔭 What you will find here
+In my GitHub repository i have stored all of the projects i completed during university. I participated in each of these projects as a team member and completed my work trying a variety of contexts.
+
+* On the <b>frontend</b> side, i have learned <b>CSS</b> and <b>JavaScript</b>.
+* On the <b>backend</b>, i have learned <b>SQL</b>, <b>jQuery</b> to make custom requests and <b>PHP</b>, also using the PDO extension for security purposes.
+* I've also worked with <b>Android Studio</b>, where my assignments were to create the database, design the homepage app layout, and develop a mini-game of my own.
+
+### 🤖 Pepper Storyteller
+In this university projects, we built a website and an application for Pepper, a human-scale robot that interacts with people. The project webpage is currently hosted and accessible at this link  [HERE :link:](https://pepper4storytelling.altervista.org/index.php)
+
+### 🧑‍⚕️ Pronuntia (⚙️ in progress)
+In this university project, we developed a website that provides speech therapists with a platform for handling patients and therapies. The website allows therapists to manage medical history tests, create targeted therapies for individual patients, perform diagnoses, and schedule appointments. It also features a client interface for patients to interact with the therapists.
+We used the Yii2 Framework for building the website, and although it is not currently hosted, i plan to upload representative GIFs at the end of the project.
+
+## :globe_with_meridians: Portfolio 
+I've also created my own portfolio, where i post the coding challenges i've completed.
+
+You can access my portfolio  [HERE :link:](https://vincenzomuolo.github.io/src/index)
+
+## 🌱 Things i want to do
+
+* I want to learn a new framework like React or Flutter.
+* I am also interested in learning TypeScript.
+##
+I have also worked with Java to create an Android Studio app, but since the repository was originally created by my colleague, it is not currently displayed on stats API.
 
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzomuolo&layout=compact&langs_count=10&theme=tokyonight&hide=batchfile,shell,awk,hack">
-
-
 
 
 <!--
