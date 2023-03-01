@@ -7,10 +7,11 @@ In my GitHub repository i have stored all of the projects i completed during uni
 
 * On the <b>frontend</b> side, i have learned <b>CSS</b> and <b>JavaScript</b>.
 * On the <b>backend</b>, i have learned <b>SQL</b>, <b>jQuery</b> to make custom requests and <b>PHP</b>, also using the PDO extension for security purposes.
-* I've also worked with <b>Android Studio</b>, where my assignments were to create the database, design the homepage app layout, and develop a mini-game of my own.
+* I've also worked with <b>Android Studio</b>.
 
 ### 🤖 Pepper Storyteller
-In this university projects, we built a website and an application for Pepper, a human-scale robot that interacts with people. The project webpage is currently hosted and accessible at this link  [HERE :link:](https://pepper4storytelling.altervista.org/index.php)
+In this university projects, we built a website and an application for Pepper, a human-scale robot that interacts with people. On web, we developed a system where both guests and registered users can read posted stories on the website, while registered users have the option to write new ones which require admin approval. These stories can be accessed through Pepper, that uses hand gestures, images, and speech to narrate the selected story.
+The project webpage is currently hosted and accessible at this link  [HERE :link:](https://pepper4storytelling.altervista.org/index.php)
 
 ### 🧑‍⚕️ Pronuntia (⚙️ in progress)
 In this university project, we developed a website that provides speech therapists with a platform for handling patients and therapies. The website allows therapists to manage medical history tests, create targeted therapies for individual patients, perform diagnoses, and schedule appointments. It also features a client interface for patients to interact with the therapists.
