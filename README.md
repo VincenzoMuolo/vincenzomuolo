@@ -15,6 +15,10 @@ In this university projects, we built a website and an application for Pepper, a
 The project webpage is currently hosted and accessible at this link  [HERE :link:](https://pepper4storytelling.altervista.org/index.php)
 
 
+### 📱 Sala Giochi
+In this university project we developed an application with Android Studio consisting of a collection of mini-games. Each team member created a game and contributed to the frontend and backend implementation of the app. The app includes an online database that stores game results and displays them on a scoreboard, as well as a local database that allows for offline data storage.
+
+
 ### 🧑‍⚕️ Pronuntia (⚙️ in progress)
 In this university project, we developed a website that provides speech therapists with a platform for handling patients and therapies. The website allows therapists to manage medical history tests, create targeted therapies for individual patients, perform diagnoses, and schedule appointments. It also features a client interface for patients to interact with the therapists.
 
@@ -46,6 +50,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: no
 - ⚡ Fun fact: ...
 -->
