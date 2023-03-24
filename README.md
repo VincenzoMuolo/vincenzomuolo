@@ -1,6 +1,6 @@
 # Hello there!👋
 I'm Vincenzo Muolo, a university student studying Informatics and Technologies for Software Production in Italy.
-In addition to my studies, i'm also a web developer with a passion for building user-friendly websites and applications.
+In addition to my studies, i'm also a web developer.
 
 ## 🔭 What you will find here
 In my GitHub repository i have stored all of the projects i completed during university. I participated in each of these projects as a team member and completed my work trying a variety of contexts.
