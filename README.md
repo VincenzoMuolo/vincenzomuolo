@@ -10,7 +10,7 @@ In my GitHub repository i have stored all of the projects i completed during uni
 * I've also worked with <b>Android Studio</b>.
 
 ### 🤖 Pepper Storyteller
-In this university projects, we built a website and an application for Pepper, a human-scale robot that interacts with people. On web, we developed a system where both guests and registered users can read posted stories on the website, while registered users have the option to write new ones which require admin approval. These stories can be accessed through Pepper, that uses hand gestures, images, and speech to narrate the selected story.
+In this university project, we built a website and an application for Pepper, a human-scale robot that interacts with people. On web, we developed a system where both guests and registered users can read posted stories on the website, while registered users have the option to write new ones which require admin approval. These stories can be accessed through Pepper, that uses hand gestures, images, and speech to narrate the selected story.
 
 The project webpage is currently hosted and accessible at this link  [HERE :link:](https://pepper4storytelling.altervista.org/index.php)
 
