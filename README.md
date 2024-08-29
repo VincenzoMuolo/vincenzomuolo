@@ -4,7 +4,7 @@ Informatics graduate with a degree in 'Informatica e Tecnologie per la Produzion
 ## 📓 University projects
 In my GitHub repository i have stored all of the projects i completed during university. I participated in each of these projects as a team member and completed my work trying a variety of contexts.
 
-* On the <b>frontend</b> side, i have learned <b>CSS</b>, <b>JavaScript</b> and <b>jQuery</b>, used for making custom http requests directly from client-side.
+* On the <b>frontend</b> side, i have learned <b>CSS</b> and <b>JavaScript</b>.
 * On the <b>backend</b>, i have learned <b>SQL</b> and <b>PHP</b>.
 * I've also worked with <b>Android Studio</b>.
 
@@ -30,7 +30,8 @@ You can access my portfolio  [HERE :link:](https://vincenzomuolo.github.io/src/i
 * Update my CSS and JS knowledges with Bootstrap or Tailwind for CSS and stay on top with newer JS versions
 * I want to learn React or Flutter.
 * I am also interested in learning TypeScript.
-##
+
+
 I have also worked with Java to create an Android Studio app, but since the repository was originally created by my colleague, it is not currently displayed on stats API.
 
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzomuolo&layout=compact&langs_count=10&theme=tokyonight&hide=batchfile,shell,awk,hack">
