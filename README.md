@@ -29,7 +29,7 @@ You can access my portfolio  [HERE :link:](https://vincenzomuolo.github.io/src/i
 ## 🌱 Things i want to do
 * Update my CSS and JS knowledges with Bootstrap or Tailwind for CSS and stay on top with newer JS versions
 * I want to learn React or Flutter.
-* I am also interested in learning TypeScript.
+* I am also interested in learning TypeScript and Python.
 
 
 I have also worked with Java to create an Android Studio app, but since the repository was originally created by my colleague, it is not currently displayed on stats API.
